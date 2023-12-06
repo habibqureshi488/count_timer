@@ -1,4 +1,4 @@
-const endDate = new Date("30 December 2023 12:00:00 AM").getTime();
+const endDate = new Date("30 December 2025 12:00:00 AM").getTime();
 const inputs = document.querySelectorAll("input");
 
 function clock() {
